@@ -17,7 +17,7 @@ class {
 }
 
 class ItemDetailViewController: UITableViewController, UITextFieldDelegate{
-    //add rank 249...?
+    //add rank
 //    @IBOutlet weak var rankSelected: UISegmentedControl!
     @IBOutlet weak var doneBarButton: UIBarButtonItem!
     @IBOutlet weak var textField: UITextField!
