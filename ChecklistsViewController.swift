@@ -7,8 +7,8 @@
 //
 
 //note
-//1.sort the list by rank P212
-//2.additem add rank P249
+//1.sort the list by rank
+//2.additem add rank
 import UIKit
 import CoreData
 class ChecklistViewController: UITableViewController,ItemDetailViewControllerDelegate{
